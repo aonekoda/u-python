@@ -1,3 +1,4 @@
+# 클래스 데코레이터 @property, @classmethod
 class Customer:
     def __init__(self, first, last, tier=('free',0)):
         self.firstname = first
